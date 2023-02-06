@@ -5,9 +5,9 @@
 
 Introduce Yourself is an online socializing tool that college students can use in order to introduce themselves to their colleuges by stating their name, what college they attend, and the number of pets that they have. This is a great way to break the ice between students and a great conversations starter.
 
-### App Walk-though
+### App Walk-through
 
-<!-- <img src="http://g.recordit.co/Op0G3USc4z.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="http://g.recordit.co/Op0G3USc4z.gif" width=200><b>
 
 ### Required Features
 
